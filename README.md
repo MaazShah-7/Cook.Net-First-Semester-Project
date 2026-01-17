@@ -29,12 +29,12 @@
 3. **Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.**
 
 ## 📁 Project Structure
-* ### RecipeListForm.cs: The main entry point for browsing recipes.
+* ** RecipeListForm.cs **: The main entry point for browsing recipes.
 
-* ### RecipeDetailForm.cs: Displays the specifics of a selected recipe.
+* ** RecipeDetailForm.cs **: Displays the specifics of a selected recipe.
 
-* ### Resources/: Contains all graphical assets used in the UI.
+* ** Resources/ **: Contains all graphical assets used in the UI.
 
-* ### Properties/: Standard project metadata and resource configuration.
+* ** Properties/ **: Standard project metadata and resource configuration.
 
 ## Developed as a First Semester Project.
