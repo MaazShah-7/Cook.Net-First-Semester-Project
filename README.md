@@ -21,14 +21,14 @@
 * **Visual Studio 2022** (or later) with the ".NET desktop development" workload installed.
 * **.NET Framework** version 4.7.2 or higher.
 
-### Installation & Setup
+## Installation & Setup
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YourUsername/CookNet-First-Semester-Project.git](https://github.com/YourUsername/CookNet-First-Semester-Project.git)
 2. **Open the Solution: Locate and open the CookNet.sln file in Visual Studio.**
 3. **Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.**
 
-### 🛠️ How to Run the App
+## 🛠️ How to Run the App
 1. Download the "Release files" from the Assets section below.
 2. Create a folder on your computer and keep the files in same folder.
 3. Open the folder and run `CookNet.exe`.
