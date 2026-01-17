@@ -3,8 +3,7 @@
 **Cook.Net** is a desktop-based recipe management application developed in C# using the WinForms framework. It is designed to help users organize, categorize, and view culinary recipes with a clean and intuitive user interface.
 
 ## 📸 Screenshots
-*(Tip: Once you upload a screenshot to GitHub, replace the link below with your image URL)*
-![Main Dashboard](https://github.com/MaazShah-7/Cook.Net-First-Semester-Project/blob/master/AppLogoBanner.png)
+![Main Dashboard](https://github.com/MaazShah-7/Cook.Net-First-Semester-Project/blob/master/dash.PNG)
 ## ✨ Key Features
 * **Recipe Dashboard:** Browse through a complete list of stored recipes.
 * **Detailed View:** View specific ingredients and step-by-step instructions for each dish via the `RecipeDetailForm`.
@@ -29,13 +28,13 @@
 2.Open the Solution: Locate and open the CookNet.sln file in Visual Studio.
 3.Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.
 
-📁 Project Structure
-RecipeListForm.cs: The main entry point for browsing recipes.
+### 📁 Project Structure
+* RecipeListForm.cs: The main entry point for browsing recipes.
 
-RecipeDetailForm.cs: Displays the specifics of a selected recipe.
+* RecipeDetailForm.cs: Displays the specifics of a selected recipe.
 
-Resources/: Contains all graphical assets used in the UI.
+* Resources/: Contains all graphical assets used in the UI.
 
-Properties/: Standard project metadata and resource configuration.
+* Properties/: Standard project metadata and resource configuration.
 
-Developed as a First Semester Project.
+### Developed as a First Semester Project.
