@@ -25,16 +25,16 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YourUsername/CookNet-First-Semester-Project.git](https://github.com/YourUsername/CookNet-First-Semester-Project.git)
-2.Open the Solution: Locate and open the CookNet.sln file in Visual Studio.
-3.Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.
+2. **Open the Solution: Locate and open the CookNet.sln file in Visual Studio.**
+3. **Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.**
 
-### 📁 Project Structure
-* RecipeListForm.cs: The main entry point for browsing recipes.
+## 📁 Project Structure
+* ### RecipeListForm.cs ###: The main entry point for browsing recipes.
 
-* RecipeDetailForm.cs: Displays the specifics of a selected recipe.
+* ### RecipeDetailForm.cs ###: Displays the specifics of a selected recipe.
 
-* Resources/: Contains all graphical assets used in the UI.
+* ### Resources/ ###: Contains all graphical assets used in the UI.
 
-* Properties/: Standard project metadata and resource configuration.
+* ### Properties/ ###: Standard project metadata and resource configuration.
 
-### Developed as a First Semester Project.
+## Developed as a First Semester Project.
