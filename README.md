@@ -28,6 +28,12 @@
 2. **Open the Solution: Locate and open the CookNet.sln file in Visual Studio.**
 3. **Build and Run: Press F5 or click the Start button in Visual Studio to compile and launch the app.**
 
+### 🛠️ How to Run the App
+1. Download the "Release files" from the Assets section below.
+2. Create a folder on your computer and keep the files in same folder.
+3. Open the folder and run `CookNet.exe`.
+*Note: Ensure you have the .NET Framework installed on your Windows machine.*
+
 ## 📁 Project Structure
 * **RecipeListForm.cs**: The main entry point for browsing recipes.
 
